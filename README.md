@@ -13,4 +13,5 @@ un blog para el curso de git/[github](https://github.com/ "github") de [Platzi](
 - Las buenas practicas
 - Trucos interesantes
 - etc.
-
+- Creado por Guille Benitez
+- Incluye ejemplos en windows, linux y mac
